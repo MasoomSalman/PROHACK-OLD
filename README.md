@@ -31,13 +31,13 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-OLD.git
 $ cd PROHACK-OLD
-$ python2 Proold.py
+$ python2 Free.py
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK-OLD.git ; cd PROHACK-OLD ; python2 Proold.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK-OLD.git ; cd PROHACK-OLD ; python2 Free.py
 ```
  TOOL USER : (No Needed)</br>
  TOOL PASS : (No Needed</br>
